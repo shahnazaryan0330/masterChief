@@ -1,0 +1,55 @@
+ .TrafficLight {
+   width: 100%;
+   height: 100vh;
+   background: url(../../img/traffic_bg.jpg);
+   background-size: cover;
+   position: relative;
+   background-repeat: no-repeat;
+   overflow: hidden;
+}
+
+.lights {
+   width: 80px;
+   position: absolute;
+   top: 40px;
+   left: calc(50% - 40px);
+}
+
+.lights img, .lights button {
+   width: 100%;
+}
+
+.lights button {
+   background: url(../../img/btn.png) no-repeat;
+   background-size: contain;
+   height: 54px;
+}
+
+.lights button:hover {
+   background: url(../../img/btn_pressed.png) no-repeat bottom;
+   background-size: contain;
+}
+
+.platform {
+   position: absolute;
+   bottom: 0;
+}
+
+.platform img:nth-child(1) {
+   width: 150px;
+   position: relative;
+   left: 0px;
+}
+
+.platform img:nth-child(2) {
+   width: 100%;
+}
+
+@keyframes sonikRun {
+   0%{
+      left: 0px;
+   }
+   100% {
+      left: 2000px;
+   }
+}

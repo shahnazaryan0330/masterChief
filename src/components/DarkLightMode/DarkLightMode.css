@@ -1,0 +1,21 @@
+.darkLightMode {
+   width: 100%;
+   position: relative;
+}
+
+.darkLightMode button {
+   position: absolute;
+   right: 30%;
+   top: 50px;
+   width: 150px;
+   box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.523);
+   border-radius: 50%;
+}
+
+.darkLightMode button img {
+   width: 100%;
+}
+
+.bg {
+   width: 100%;
+}
