@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/masterChief/static/css/main.2073782a.css",
+    "main.js": "/masterChief/static/js/main.fbb0cc01.js",
+    "static/media/run.gif": "/masterChief/static/media/run.4314adbe08cb749da1b9.gif",
+    "static/media/wait.gif": "/masterChief/static/media/wait.829cd188fecf3962c977.gif",
+    "static/media/move_bg.gif": "/masterChief/static/media/move_bg.97f14c56dbbfd5619c12.gif",
+    "static/media/game_bg.jpg": "/masterChief/static/media/game_bg.3d596c3593c85a7bec69.jpg",
+    "static/media/day_bg.jpg": "/masterChief/static/media/day_bg.1c9975ccc4dce5ce708f.jpg",
+    "static/media/move_logo.png": "/masterChief/static/media/move_logo.75f16e848fd6fcf244f1.png",
+    "static/media/night_bg.jpg": "/masterChief/static/media/night_bg.2866fc133c7d3fbd4f43.jpg",
+    "static/media/game_win.gif": "/masterChief/static/media/game_win.bb65cff3ac5b59a93e24.gif",
+    "static/media/yellow.png": "/masterChief/static/media/yellow.51566df9947cbc1538ad.png",
+    "static/media/green.png": "/masterChief/static/media/green.83c6120aac61a73e6334.png",
+    "static/media/red.png": "/masterChief/static/media/red.52c153cd70494e179eba.png",
+    "static/media/traffic_bg.jpg": "/masterChief/static/media/traffic_bg.316768bdef1894043aed.jpg",
+    "static/media/ARCADECLASSIC.TTF": "/masterChief/static/media/ARCADECLASSIC.8f36b955d042951fd3af.TTF",
+    "static/media/sun.png": "/masterChief/static/media/sun.f963e93dd4cabaea77d5.png",
+    "index.html": "/masterChief/index.html",
+    "main.2073782a.css.map": "/masterChief/static/css/main.2073782a.css.map",
+    "main.fbb0cc01.js.map": "/masterChief/static/js/main.fbb0cc01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2073782a.css",
+    "static/js/main.fbb0cc01.js"
+  ]
+}
